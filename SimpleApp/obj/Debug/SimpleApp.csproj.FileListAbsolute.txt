@@ -1,0 +1,14 @@
+C:\Dev\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Dev\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Dev\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.csproj.SuggestedBindingRedirects.cache
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.pdb
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.Form1.resources
+C:\Dev\SimpleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\SimpleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\SimpleApp\obj\Debug\SimpleApp.csproj.CopyComplete

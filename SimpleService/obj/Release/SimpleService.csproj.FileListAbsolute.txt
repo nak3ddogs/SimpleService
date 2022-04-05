@@ -1,0 +1,8 @@
+C:\Dev\SimpleService\bin\Release\SimpleService.exe.config
+C:\Dev\SimpleService\bin\Release\SimpleService.exe
+C:\Dev\SimpleService\bin\Release\SimpleService.pdb
+C:\Dev\SimpleService\obj\Release\SimpleService.csproj.AssemblyReference.cache
+C:\Dev\SimpleService\obj\Release\SimpleService.csproj.SuggestedBindingRedirects.cache
+C:\Dev\SimpleService\obj\Release\SimpleService.csproj.CoreCompileInputs.cache
+C:\Dev\SimpleService\obj\Release\SimpleService.exe
+C:\Dev\SimpleService\obj\Release\SimpleService.pdb
